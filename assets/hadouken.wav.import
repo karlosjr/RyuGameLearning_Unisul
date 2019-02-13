@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/hadouken.wav-3ca7b560af32b690e2e082ed789c4551.sample"
+
+[deps]
+
+source_file="res://assets/hadouken.wav"
+dest_files=[ "res://.import/hadouken.wav-3ca7b560af32b690e2e082ed789c4551.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
